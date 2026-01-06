@@ -1,12 +1,12 @@
 # Prerequisites
-##############
+##################
 - JDK 21 
-- Maven 3.9 
-- MySQL 8
+- Maven 3.1
+- MySQL 9
 
 # Technologies 
 - JAKARTA
-- Spring MVC
+- Spring M
 - Spring Security
 - Spring Data JPA
 - Maven
