@@ -1,7 +1,7 @@
 # Prerequisites
 ##################
 ##Practical requirements##
-- JDK 22.7S
+- JDK 22.7
 - Maven 3.1
 - MySQL 10
 
